@@ -1,0 +1,17 @@
+.\objects\main.o: Source\main.c
+.\objects\main.o: Source\tinyOS.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: Source\tLib.h
+.\objects\main.o: Source\tConfig.h
+.\objects\main.o: Source\tEvent.h
+.\objects\main.o: Source\tTask.h
+.\objects\main.o: Source\tinyOS.h
+.\objects\main.o: Source\tSem.h
+.\objects\main.o: Source\tMbox.h
+.\objects\main.o: C:\Users\fymeng\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\Device\ARM\ARMCM3\Include\ARMCM3.h
+.\objects\main.o: C:\Users\fymeng\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm3.h
+.\objects\main.o: C:\Users\fymeng\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\main.o: C:\Users\fymeng\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\main.o: C:\Users\fymeng\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\main.o: C:\Users\fymeng\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h
+.\objects\main.o: C:\Users\fymeng\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h
